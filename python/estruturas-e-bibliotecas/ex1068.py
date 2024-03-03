@@ -17,5 +17,3 @@ while True:
         print("correct") if validar_parenteses(entrada) else print("incorrect")
     except EOFError:
         break
-
-    
