@@ -1,6 +1,7 @@
+# Time limit exceeded
+
+id_teste = 1 # variável que armazena qual é o caso de teste
 while True: 
-    id_teste = 1 # variável que armazena qual é o caso de teste
-    
     # lendo um caso de teste
     teste = input().split(' ')
     n = int(teste[0]) # n -> número de mármores

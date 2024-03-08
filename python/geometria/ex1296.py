@@ -1,5 +1,4 @@
-# Cálculo da área de um triângulo a partir de suas medianas
-# Cada caso de teste é composto por três números que denotam o comprimento das medianas do triângulo
+# Runtime error
 
 import math
 
